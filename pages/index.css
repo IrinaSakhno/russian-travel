@@ -55,3 +55,10 @@
 @import url(../blocks/link/link.css);
 
 @import url(../blocks/gallery/gallery.css);
+
+
+@font-face {
+    src: url(../fonts/Inter-Regular.woff2);
+    font-family: "Inter", sans-serif; 
+} 
+
