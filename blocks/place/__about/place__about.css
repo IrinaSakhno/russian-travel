@@ -1,0 +1,5 @@
+.place__about {
+  display: grid;
+  justify-self: start;
+  align-self: start;
+}

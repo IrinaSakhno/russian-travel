@@ -1,0 +1,6 @@
+.intro__list {
+  list-style-type: none;
+  padding: 0;
+  align-self: flex-start;
+  max-width: 690px;
+}
