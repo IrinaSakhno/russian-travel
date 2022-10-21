@@ -5,3 +5,15 @@
   max-width: 984px;
   margin: 92px auto 0;
 }
+
+@media screen and (max-width: 1023px) {
+  .intro {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro {
+    margin-left: 16px;
+  }
+}

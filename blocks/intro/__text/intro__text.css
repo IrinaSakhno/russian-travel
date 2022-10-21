@@ -5,11 +5,5 @@
   line-height: 1.63;
   color: #ffffff;
   max-width: 690px;
-}
-
-@media screen and (max-width: 767px) {
-  .intro__text {
-    font-size: 16px;
-    line-height: 1.63;
-  }
+  margin: 40px 0 0;
 }

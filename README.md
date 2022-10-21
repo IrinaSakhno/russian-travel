@@ -2,4 +2,4 @@
 ## Данный проект является практической работой по итогам первых трех спринтов курса Веб-разработки в Яндекс Практикуме.
 ### При разработке использовались HTML и CSS в рамках пройденных на курсе тем, а также адаптивная верстка.
 
-#### GitHub Pages: https://github.com/IrinaSakhno/russian-travel
+#### GitHub Pages: https://irinasakhno.github.io/russian-travel/

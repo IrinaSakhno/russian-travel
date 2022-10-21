@@ -3,4 +3,11 @@
   padding: 0;
   align-self: flex-start;
   max-width: 690px;
+  margin: 33px 0 0;
+}
+
+@media screen and (max-width: 767px) {
+  .intro__list {
+    margin: 34px 0 0;
+  }
 }

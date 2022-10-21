@@ -12,11 +12,13 @@
 @media screen and (max-width: 1023px) {
   .gallery {
     max-width: 720px;
+    margin: 88px auto 0;
   }
 }
 
 @media screen and (max-width: 767px) {
   .gallery {
     max-width: 288px;
+    margin: 64px auto 0;
   }
 }
