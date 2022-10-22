@@ -7,20 +7,20 @@
 }
 
 @media screen and (max-width: 1279px) {
-  .page {
+  .lead {
     max-width: 928px;
     margin: 48px auto 0;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .page {
+  .lead {
     max-width: 768px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .page {
+  .lead {
     max-width: 320px;
   }
 }

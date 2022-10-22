@@ -3,3 +3,10 @@
   justify-self: start;
   align-self: start;
 }
+
+
+@media screen and (max-width: 767px) {
+  .place__about {
+    margin: 32px 0 0 16px;
+  }
+}
