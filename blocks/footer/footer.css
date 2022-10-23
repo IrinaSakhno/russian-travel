@@ -23,6 +23,6 @@
     max-width: 288px;
     flex-direction: column;
     align-items: flex-start;
-    margin: 64px auto 24;
+    margin: 64px auto 24px;
   }
 }
