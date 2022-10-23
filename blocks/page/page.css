@@ -6,13 +6,13 @@
 
 @media screen and (max-width: 1279px) {
   .page {
-    max-width: 928px;
+    max-width: 1024px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .page {
-    max-width: 720px;
+    max-width: 768px;
   }
 }
 
